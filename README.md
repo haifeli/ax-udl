@@ -1,8 +1,8 @@
 # ax-udl
 
-Here is the Notepad ++ User Defined Language file for Cisco wireless devices logs. 
-
-This project references [npp-udl](https://github.com/click0/npp-udl), can also be used on Cisco IOS switches.
+Here is the Notepad ++ User Defined Language file for Cisco wireless devices logs.   
+I integrated the 300 most frequently used words and optimized them specifically.  
+This project references [npp-udl](https://github.com/click0/npp-udl), can also be used on Cisco IOS switches.  
 
 ## Supported devices
 
